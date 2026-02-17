@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://patora-ai-it-services.co.in/sitemap.xml
